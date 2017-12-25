@@ -13,10 +13,12 @@
     "mongodb": "^2.2.33",
     "react": "^15.0.0",
     "react-bootstrap": "^0.31.5",
+    "react-bootstrap-form": "^0.1.4-beta6",
     "react-bootstrap-table": "^4.3.0",
     "react-dom": "^15.2.0",
+    "react-fade": "^1.1.1",
     "react-router": "^2.0.0",
-    "reactstrap": "^5.0.0-alpha.4"
+    "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
     "babel-core": "^6.5.1",

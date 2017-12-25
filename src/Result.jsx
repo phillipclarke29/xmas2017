@@ -1,14 +1,15 @@
 var React = require('react');
 
-var Orgs = React.createClass({
+
+var Result = React.createClass({
   render: function () {
     return(
       <div>
-      <h2>Happy Christmas</h2>
+      <h2>{this.props.result}</h2>
 
       </div>
     )
   }
 });
 
-module.exports= Orgs;
+module.exports= Result;

@@ -10,9 +10,10 @@ module.exports = {
     alias: {
       Main: 'src/Main.jsx',
       Orgs: 'src/Orgs.jsx',
-      About: 'src/About.jsx',
-      Graphs: 'src/Graphs.jsx',
-      Nav: 'src/Nav.jsx'
+      Nav: 'src/Nav.jsx',
+      Underground: 'src/Underground.jsx',
+      KingsOfEngland: 'src/KingsOfEngland.jsx',
+      Result: 'src/Result.jsx',
     },
     extensions: ['','.js','.jsx']
   },
